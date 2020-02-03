@@ -1,0 +1,8 @@
+baseURL = "https://mcewan.io/"
+languageCode = "en-gb"
+title = "mcwn.dev"
+
+[params]
+    author = "James McEwan"
+    subtitle = "Projects by James McEwan"
+    description = "James McEwan is a web developer based in Edinburgh, Scotland"
